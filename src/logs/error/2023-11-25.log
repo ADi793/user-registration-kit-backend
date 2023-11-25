@@ -669,3 +669,123 @@ Error: Route.post() requires a callback function but got a [object Undefined]
 2023-11-25 18:24:46 error: [POST] /api/users >> StatusCode:: 409, Message:: You're email siddiquiadil685@gmail.com already exists
 2023-11-25 18:26:39 error: [POST] /api/users >> StatusCode:: 409, Message:: You're email siddiquiadil685@gmail.com already exists
 2023-11-25 18:27:40 error: [POST] /api/users >> StatusCode:: 409, Message:: You're email siddiquiadil685@gmail.com already exists
+2023-11-25 20:41:50 error: uncaughtException: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+Error: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (F:\adil\assignments\chat-bot\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (F:\adil\assignments\chat-bot\node_modules\tsconfig-paths\src\register.ts:90:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\routes\auth.route.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module.m._compile (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Object.require.extensions.<computed> [as .ts] (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\server.ts:2:1)
+2023-11-25 20:43:08 error: uncaughtException: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+Error: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (F:\adil\assignments\chat-bot\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (F:\adil\assignments\chat-bot\node_modules\tsconfig-paths\src\register.ts:90:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\routes\auth.route.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module.m._compile (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Object.require.extensions.<computed> [as .ts] (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\server.ts:2:1)
+2023-11-25 20:44:13 error: uncaughtException: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+Error: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (F:\adil\assignments\chat-bot\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (F:\adil\assignments\chat-bot\node_modules\tsconfig-paths\src\register.ts:90:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\routes\auth.route.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module.m._compile (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Object.require.extensions.<computed> [as .ts] (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\server.ts:2:1)
+2023-11-25 20:45:10 error: uncaughtException: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+Error: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (F:\adil\assignments\chat-bot\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (F:\adil\assignments\chat-bot\node_modules\tsconfig-paths\src\register.ts:90:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\routes\auth.route.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module.m._compile (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Object.require.extensions.<computed> [as .ts] (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\server.ts:2:1)
+2023-11-25 20:47:51 error: uncaughtException: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+Error: Cannot find module '@middlewares/auth.middleware'
+Require stack:
+- F:\adil\assignments\chat-bot\src\routes\auth.route.ts
+- F:\adil\assignments\chat-bot\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (F:\adil\assignments\chat-bot\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._resolveFilename (F:\adil\assignments\chat-bot\node_modules\tsconfig-paths\src\register.ts:90:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\routes\auth.route.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module.m._compile (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Object.require.extensions.<computed> [as .ts] (F:\adil\assignments\chat-bot\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (F:\adil\assignments\chat-bot\src\server.ts:2:1)
