@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/enums/gender.ts"],"sourcesContent":["enum Gender {\r\n    male = 'male',\r\n    female = 'female',\r\n    other = 'other'\r\n}\r\n\r\nexport default Gender"],"names":["Gender"],"mappings":";;;;+BAMA;;;eAAA;;;;UANKA;;;;GAAAA,WAAAA;MAML,WAAeA"}
